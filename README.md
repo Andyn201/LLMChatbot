@@ -1,4 +1,4 @@
-## [LLM Chatbot Deployed to AWS]
+## LLM Chatbot Deployed to AWS
 - A LLM Chatbot wrapped around ChatGPT
 - Deployed on Amazon AWS Lambda
 - [See App](https://xcl7djrk2z6zzk6u3hlbyosvwy0idmxz.lambda-url.us-east-2.on.aws/)
